@@ -1,0 +1,58 @@
+body{
+    background-color: grey;
+}
+
+.dice small{
+    display: inline-block;
+    width: 100px;
+}
+
+#stage{
+    border: solid 2px black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.board{
+
+}
+
+.board span.cell{
+    background-color: white;
+    display: inline-block;
+    border: solid 1px grey;
+}
+
+.board span.cell.player-0{
+    background-color: blue;
+}
+
+.board span.cell.player-1{
+    background-color: yellow;
+}
+
+.board span.cell.player-2{
+    background-color: grey;
+}
+
+.board span.cell.player-3{
+    background-color: darkgreen;
+}
+
+.pl0{
+    color : blue;
+}
+
+.pl1{
+    color: yellow;
+}
+
+.pl2{
+    color: grey;
+}
+.pl3{
+    color: darkgreen;
+}
+

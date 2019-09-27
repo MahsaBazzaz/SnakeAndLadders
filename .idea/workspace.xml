@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6cdd3fa-28db-4920-9c68-900f714e5c3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/JTanks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Bullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/CannonBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/GameConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/GameLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Gun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/MachineGunBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Tank$KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Tank$MouseHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/bodies/body1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/bullets/cannonBullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/bullets/machineGunBullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/guns/cannon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/guns/machineGun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Bullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/CannonBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/GameConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/GameLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Gun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/MachineGunBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/MusicPlayer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/MusicCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/MusicPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/MusicCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/hw11.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1ROBt3i4Mxqj7ZPDIBhssa9laKu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6cdd3fa-28db-4920-9c68-900f714e5c3c" name="Default Changelist" comment="" />
+      <created>1568984143517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568984143517</updated>
+      <workItem from="1568984147704" duration="3803000" />
+      <workItem from="1568999845402" duration="2017000" />
+      <workItem from="1569528485697" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
